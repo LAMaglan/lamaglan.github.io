@@ -1,0 +1,60 @@
+---
+title: "Luigi Maglanoc"
+about:
+  template: trestles
+  links:
+    - icon: twitter-x
+      text: twitter
+      href: https://twitter.com/LAMaglanoc
+    - icon: github
+      text: Github
+      href: https://github.com/lamaglan
+    - icon: mastodon
+      text: Mastodon
+      href: https://ieji.de/@LAMaglan
+    - icon: google
+      text: Google scholar
+      href: https://scholar.google.com/citations?user=HbGdNnAAAAAJ&hl=en
+    - icon: linkedin
+      text: Linkedin
+      href: https://no.linkedin.com/in/luigi-angelo-maglanoc-3200724b
+    - icon: pc-display
+      text: Work
+      href: https://www.usit.uio.no/english/about/organisation/rde/dm/staff/luigiam/index.html
+---
+
+![](luigi-1558026_1280.jpg){width=80%}
+
+See [About](about.html) for more details 
+
+# Blog posts
+[Generating real-world evidence about COVID19 vaccines in Europe – key role of IT support](https://www.usit.uio.no/om/organisasjon/ffu/dht/aktiviteter/task/task-bloggen/vac4eu.html)
+
+[Min første Shiny-app](https://www.usit.uio.no/om/organisasjon/ffu/dht/aktiviteter/task/task-bloggen/innblikk-i-r-shiny.html)
+
+# Courses held
+
+[Introduction to R and RStudio](https://www.uio.no/tjenester/it/kurs/alle/dht/r/events/2024-03-rstudio-intro.html)
+
+[Introduction to Machine learning in R: Classification ](https://www.uio.no/tjenester/it/kurs/alle/dht/ml/events/2024-04-ml-r-intro.html)
+
+[Introduction to Machine learning in Python: Classification ](https://www.uio.no/tjenester/it/kurs/alle/dht/ml-python/events/2024-05-ml-python-intro.html)
+
+[Getting started with statistics and programming using GPT UiO](https://www.uio.no/tjenester/it/kurs/alle/dht/gpt-stats-programmering/events/2024-05-gpt-statistics.html)
+
+# Selected hobby repos
+
+## PokeFightSimulator
+
+A (simple) fight simulator between any two Pokemon using FastAPI (python) with Jinja template engine.
+[See here](https://github.com/LAMaglan/PokeFightSimulator)
+
+## Cristin: JSON to JSON-LD
+
+Python code that parses through projects and publications from Cristin API (v2) and transform to JSON-LD.
+[See here](https://github.com/LAMaglan/Cristin_JSON_to_JSON-LD)
+
+## UiONettskjemaViz
+
+R-package to visualize UiO-nettskjema data (loaded as csv-files), or other csv-files of similar format. 
+[See here](https://github.com/LAMaglan/UiONettskjemaViz)
