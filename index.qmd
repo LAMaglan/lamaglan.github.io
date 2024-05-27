@@ -62,6 +62,8 @@ R-package to visualize UiO-nettskjema data (loaded as csv-files), or other csv-f
 
 # Selected work projects
 
+[RASK](https://www.antibiotika.no/rask/): Automated HTML reports using Quarto about use of antibiotics nationwide in Norway
+
 [Digikost](https://www.med.uio.no/imb/forskning/om/infrastruktur/kostholdsmetodikk/digikost.html): Automated HTML reports using RMarkdown from UiO Nettskjema in TSD
 
 [MinMat](https://www.med.uio.no/imb/om/aktuelt/aktuelle-saker/2021/bli-med-pa-forskning-pa-kosthold-hos-eldre.html): Wrote R code that parses UiO Nettskjema data in TSD
