@@ -5,11 +5,18 @@ about:
   image: profile.jpeg
 ---
 
-# About me
+Luigi Maglanoc is a data "shapard" at the IT Department of University of Oslo. Background in 
+psychology and clinical neuroimaging. Currently interested in anything to do with Python, 
+especially RESTful APIs (FastAPI). Wanting to learn more devops, such as containers (docker/podman),
+container orchestration (kubernetes/openshift), and CI/CD (github actions)
 
-Luigi Maglanoc is a data "shapard" at the IT Department of University of Oslo. 
+# Experience
 
-## Education
+IT Department, University of Oslo | Senior Engineer | January 2020 - present
+
+Skatteetaten | Senior Analyst | August 2019 - January 2020
+
+# Education
 
 University of Oslo | Oslo, Norway
 PhD in Clinical Neuroscience | July 2015 - June 2019
@@ -19,9 +26,3 @@ M.phil in Cognitive Neuroscience | August 2011 - June 2013
 
 University of Oslo | Oslo, Norway
 B.Sc in Psychology | August 2008 - June 2011
-
-## Experience
-
-IT Department, University of Oslo | Senior Engineer | January 2020 - present
-
-Skatteetaten | Senior Analyst | August 2019 - January 2020
