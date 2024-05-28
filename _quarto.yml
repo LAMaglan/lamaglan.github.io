@@ -11,6 +11,8 @@ website:
       - about.qmd
       - href: work.qmd
         text: Work
+      - href: cv.qmd
+        text: CV
       - href: coding-personal.qmd
         text: Coding personal
 

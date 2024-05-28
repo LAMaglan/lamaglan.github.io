@@ -1,0 +1,6 @@
+---
+title: "CV"
+format: html
+---
+
+Download my CV in English [here](files/CV_english.pdf). And my CV in Norwegian [here](files/CV.pdf)
