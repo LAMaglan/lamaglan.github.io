@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Luigi Maglanoc",
     "section": "",
-    "text": "See About for more details"
+    "text": "See About for more details\n\nBlog posts\nGenerating real-world evidence about COVID19 vaccines in Europe – key role of IT support\nMin første Shiny-app"
   },
   {
     "objectID": "index.html#pokefightsimulator",
@@ -32,7 +32,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Luigi Maglanoc is a data “shapard” at the IT Department of University of Oslo. Background in psychology and clinical neuroimaging. Currently interested in anything to do with Python, especially RESTful APIs (FastAPI). Wanting to learn more devops, such as containers (docker/podman), container orchestration (kubernetes/openshift), and CI/CD (github actions)\n\nExperience\nIT Department, University of Oslo | Senior Engineer | January 2020 - present\nSkatteetaten | Senior Analyst | August 2019 - January 2020\n\n\nEducation\nUniversity of Oslo | Oslo, Norway PhD in Clinical Neuroscience | July 2015 - June 2019\nUniversity of Oslo | Oslo, Norway M.phil in Cognitive Neuroscience | August 2011 - June 2013\nUniversity of Oslo | Oslo, Norway B.Sc in Psychology | August 2008 - June 2011"
+    "text": "Luigi Maglanoc is a data “shapard” at the IT Department of University of Oslo. Background in psychology and clinical neuroimaging. Currently interested in anything to do with Python, especially RESTful APIs (FastAPI). Wanting to learn more devops, such as containers (docker/podman), container orchestration (kubernetes/openshift), and CI/CD (github actions)\n\nWork experience\nIT Department, University of Oslo | Senior Engineer | January 2020 - present\nSkatteetaten | Senior Analyst | August 2019 - January 2020\n\n\nEducation\nUniversity of Oslo | Oslo, Norway  PhD in Clinical Neuroscience | July 2015 - June 2019   University of Oslo | Oslo, Norway  M.phil in Cognitive Neuroscience | August 2011 - June 2013   University of Oslo | Oslo, Norway  B.Sc in Psychology | August 2008 - June 2011\n\n\nProgramming\nAdvanced | R  Intermeidate | Python, Git(hub), Linux\nGood grasp | SQL, docker\nBeginner | Github Action, container orchestration\n\n\nLanguages\nNorwegian | fluent (or should be)  English | bilingual proficiency  German | working proficiency\n\n\nHobbies\nRunning  “Calisthenics” (monkeying around on rings and poles)  Watching MMA  Training BJJ (extended break since 2020)  Playing video games  Playing board games  Eating and cooking"
   },
   {
     "objectID": "about.html#education",
@@ -47,5 +47,47 @@
     "title": "About",
     "section": "",
     "text": "IT Department, University of Oslo | Senior Engineer | January 2020 - present\nSkatteetaten | Senior Analyst | August 2019 - January 2020"
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Work",
+    "section": "",
+    "text": "From current workplace: IT department at University of Oslo\n\nCourses held\nIntroduction to R and RStudio\nIntroduction to Machine learning in R: Classification\nIntroduction to Machine learning in Python: Classification\nGetting started with statistics and programming using GPT UiO\n\n\nSelected work projects\nRASK: Automated HTML reports using Quarto about use of antibiotics nationwide in Norway\nDigikost: Automated HTML reports using RMarkdown from UiO Nettskjema in TSD\nMinMat: Wrote R code that parses UiO Nettskjema data in TSD\niTandem: Wrote R code that parses UiO Nettskjema data in TSD\nNORTRAS: Wrote an R Shiny app that vizualises data for the NORTRAS study\nMinDag: Wrote an R Shiny app that creates HTML reports based on data delivered from an app (connected to Nettskjema UiO)"
+  },
+  {
+    "objectID": "coding-personal.html",
+    "href": "coding-personal.html",
+    "title": "Personal projects",
+    "section": "",
+    "text": "A (simple) fight simulator between any two Pokemon using FastAPI (python) with Jinja template engine. See here\n\n\n\nPython code that parses through projects and publications from Cristin API (v2) and transform to JSON-LD. Initially for work (integrate with knowledge graph) but never got used. See here\n\n\n\nR-package to visualize UiO-nettskjema data (loaded as csv-files), or other csv-files of similar format. Initially for work, but never got used. See here"
+  },
+  {
+    "objectID": "coding-personal.html#pokefightsimulator",
+    "href": "coding-personal.html#pokefightsimulator",
+    "title": "Personal projects",
+    "section": "",
+    "text": "A (simple) fight simulator between any two Pokemon using FastAPI (python) with Jinja template engine. See here"
+  },
+  {
+    "objectID": "coding-personal.html#cristin-json-to-json-ld",
+    "href": "coding-personal.html#cristin-json-to-json-ld",
+    "title": "Personal projects",
+    "section": "",
+    "text": "Python code that parses through projects and publications from Cristin API (v2) and transform to JSON-LD. Initially for work (integrate with knowledge graph) but never got used. See here"
+  },
+  {
+    "objectID": "coding-personal.html#uionettskjemaviz",
+    "href": "coding-personal.html#uionettskjemaviz",
+    "title": "Personal projects",
+    "section": "",
+    "text": "R-package to visualize UiO-nettskjema data (loaded as csv-files), or other csv-files of similar format. Initially for work, but never got used. See here"
+  },
+  {
+    "objectID": "coding-personal.html#selected-hobby-repos",
+    "href": "coding-personal.html#selected-hobby-repos",
+    "title": "Personal projects",
+    "section": "",
+    "text": "A (simple) fight simulator between any two Pokemon using FastAPI (python) with Jinja template engine. See here\n\n\n\nPython code that parses through projects and publications from Cristin API (v2) and transform to JSON-LD. Initially for work (integrate with knowledge graph) but never got used. See here\n\n\n\nR-package to visualize UiO-nettskjema data (loaded as csv-files), or other csv-files of similar format. Initially for work, but never got used. See here"
   }
 ]

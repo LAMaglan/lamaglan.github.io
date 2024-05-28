@@ -9,6 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: work.qmd
+        text: Work
+      - href: coding-personal.qmd
+        text: Coding personal
+
 
 format:
   html:
