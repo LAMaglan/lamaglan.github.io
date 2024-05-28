@@ -35,8 +35,8 @@ B.Sc in Psychology | August 2008 - June 2011
 # Programming
 
 Advanced | R
-<br>
-Intermeidate | Python, Git(hub), Linux
+
+Intermediate | Python, Git(hub), Linux
 
 Good grasp | SQL, docker
 
