@@ -2,7 +2,7 @@
 title: "About"
 about:
   template: jolla
-  image: profile.jpeg
+  image: images/profile.jpeg
 ---
 
 Luigi Maglanoc is a data "shapard" at the IT Department of University of Oslo. Background in 

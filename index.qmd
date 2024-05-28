@@ -23,7 +23,7 @@ about:
       href: https://www.usit.uio.no/english/about/organisation/rde/dm/staff/luigiam/index.html
 ---
 
-![](luigi-1558026_1280.jpg){width=80%}
+![](images/luigi-1558026_1280.jpg){width=80%}
 
 See [About](about.html) for more details 
 
