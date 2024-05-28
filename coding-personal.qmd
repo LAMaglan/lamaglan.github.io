@@ -1,0 +1,21 @@
+---
+title: "Personal projects"
+format: html
+---
+
+## Selected hobby repos
+
+### PokeFightSimulator
+
+A (simple) fight simulator between any two Pokemon using FastAPI (python) with Jinja template engine.
+[See here](https://github.com/LAMaglan/PokeFightSimulator)
+
+### Cristin: JSON to JSON-LD
+
+Python code that parses through projects and publications from Cristin API (v2) and transform to JSON-LD.
+Initially for work (integrate with knowledge graph) but never got used. [See here](https://github.com/LAMaglan/Cristin_JSON_to_JSON-LD)
+
+### UiONettskjemaViz
+
+R-package to visualize UiO-nettskjema data (loaded as csv-files), or other csv-files of similar format.
+Initially for work, but never got used. [See here](https://github.com/LAMaglan/UiONettskjemaViz)

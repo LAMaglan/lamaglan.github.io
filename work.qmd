@@ -1,0 +1,31 @@
+---
+title: "Work"
+format: html
+---
+
+From current workplace: IT department at University of Oslo
+
+# Courses held
+
+[Introduction to R and RStudio](https://www.uio.no/tjenester/it/kurs/alle/dht/r/events/2024-03-rstudio-intro.html)
+
+[Introduction to Machine learning in R: Classification ](https://www.uio.no/tjenester/it/kurs/alle/dht/ml/events/2024-04-ml-r-intro.html)
+
+[Introduction to Machine learning in Python: Classification ](https://www.uio.no/tjenester/it/kurs/alle/dht/ml-python/events/2024-05-ml-python-intro.html)
+
+[Getting started with statistics and programming using GPT UiO](https://www.uio.no/tjenester/it/kurs/alle/dht/gpt-stats-programmering/events/2024-05-gpt-statistics.html)
+
+
+# Selected work projects
+
+[RASK](https://www.antibiotika.no/rask/): Automated HTML reports using Quarto about use of antibiotics nationwide in Norway
+
+[Digikost](https://www.med.uio.no/imb/forskning/om/infrastruktur/kostholdsmetodikk/digikost.html): Automated HTML reports using RMarkdown from UiO Nettskjema in TSD
+
+[MinMat](https://www.med.uio.no/imb/om/aktuelt/aktuelle-saker/2021/bli-med-pa-forskning-pa-kosthold-hos-eldre.html): Wrote R code that parses UiO Nettskjema data in TSD
+
+[iTandem](https://www.oslo-universitetssykehus.no/itandem): Wrote R code that parses UiO Nettskjema data in TSD
+
+[NORTRAS](https://www.sv.uio.no/psi/forskning/prosjekter/nortras/): Wrote an R Shiny app that vizualises data for the NORTRAS study
+
+[MinDag](https://www.med.uio.no/norment/forskning/deltakelse/app-og-aktigrafi/): Wrote an R Shiny app that creates HTML reports based on data delivered from an app (connected to Nettskjema UiO)
