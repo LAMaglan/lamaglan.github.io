@@ -32,7 +32,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Luigi Maglanoc is a data “shapard” at the IT Department of University of Oslo.\n\n\nUniversity of Oslo | Oslo, Norway PhD in Clinical Neuroscience | July 2015 - June 2019\nUniversity of Oslo | Oslo, Norway M.phil in Cognitive Neuroscience | August 2011 - June 2013\nUniversity of Oslo | Oslo, Norway B.Sc in Psychology | August 2008 - June 2011\n\n\n\nIT Department, University of Oslo | Senior Engineer | January 2020 - present\nSkatteetaten | Senior Analyst | August 2019 - January 2020"
+    "text": "Luigi Maglanoc is a data “shapard” at the IT Department of University of Oslo. Background in psychology and clinical neuroimaging. Currently interested in anything to do with Python, especially RESTful APIs (FastAPI). Wanting to learn more devops, such as containers (docker/podman), container orchestration (kubernetes/openshift), and CI/CD (github actions)\n\nExperience\nIT Department, University of Oslo | Senior Engineer | January 2020 - present\nSkatteetaten | Senior Analyst | August 2019 - January 2020\n\n\nEducation\nUniversity of Oslo | Oslo, Norway PhD in Clinical Neuroscience | July 2015 - June 2019\nUniversity of Oslo | Oslo, Norway M.phil in Cognitive Neuroscience | August 2011 - June 2013\nUniversity of Oslo | Oslo, Norway B.Sc in Psychology | August 2008 - June 2011"
   },
   {
     "objectID": "about.html#education",
