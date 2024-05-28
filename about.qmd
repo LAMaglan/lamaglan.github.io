@@ -10,7 +10,7 @@ psychology and clinical neuroimaging. Currently interested in anything to do wit
 especially RESTful APIs (FastAPI). Wanting to learn more devops, such as containers (docker/podman),
 container orchestration (kubernetes/openshift), and CI/CD (github actions)
 
-# Experience
+# Work experience
 
 IT Department, University of Oslo | Senior Engineer | January 2020 - present
 
@@ -19,10 +19,49 @@ Skatteetaten | Senior Analyst | August 2019 - January 2020
 # Education
 
 University of Oslo | Oslo, Norway
+<br>
 PhD in Clinical Neuroscience | July 2015 - June 2019
-
+<br>
+<br>
 University of Oslo | Oslo, Norway
+<br>
 M.phil in Cognitive Neuroscience | August 2011 - June 2013
-
+<br>
+<br>
 University of Oslo | Oslo, Norway
+<br>
 B.Sc in Psychology | August 2008 - June 2011
+
+# Programming
+
+Advanced | R
+<br>
+Intermeidate | Python, Git(hub), Linux
+
+Good grasp | SQL, docker
+
+Beginner | Github Action, container orchestration
+
+# Languages
+
+Norwegian | fluent (or should be)
+<br>
+English | bilingual proficiency
+<br>
+German | working proficiency
+
+
+# Hobbies
+Running
+<br>
+"Calisthenics" (monkeying around on rings and poles)
+<br>
+Watching MMA
+<br>
+Training BJJ (extended break since 2020)
+<br>
+Playing video games
+<br>
+Playing board games
+<br>
+Eating and cooking
