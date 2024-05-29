@@ -5,7 +5,7 @@ about:
   image: images/profile.jpeg
 ---
 
-Luigi Maglanoc is a data "shapard" at the IT Department of University of Oslo. Background in 
+Luigi Maglanoc is a data "shepard" at the IT Department of University of Oslo. Background in 
 psychology and clinical neuroimaging. Currently interested in anything to do with Python, 
 especially RESTful APIs (FastAPI). Wanting to learn more devops, such as containers (docker/podman),
 container orchestration (kubernetes/openshift), and CI/CD (github actions)
