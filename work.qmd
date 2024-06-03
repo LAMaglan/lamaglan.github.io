@@ -46,11 +46,12 @@ Article 1:
 
 Article 2: 
 <br>
-[Multimodal fusion of structural and functional brain imaging in depression using linked independent component analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24802)
+[Brain connectome mapping of complex human traits and their polygenic architecture using machine learning](https://www.sciencedirect.com/science/article/abs/pii/S0006322319317913)
 
 Article 3: 
 <br>
-[Brain connectome mapping of complex human traits and their polygenic architecture using machine learning](https://www.sciencedirect.com/science/article/abs/pii/S0006322319317913)
+[Multimodal fusion of structural and functional brain imaging in depression using linked independent component analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24802)
+
 
 
 ## Selected co-author papers
