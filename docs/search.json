@@ -53,7 +53,7 @@
     "href": "work.html",
     "title": "Work",
     "section": "",
-    "text": "From current workplace: IT department at University of Oslo\n\nCourses held\nIntroduction to R and RStudio\nIntroduction to Machine learning in R: Classification\nIntroduction to Machine learning in Python: Classification\nGetting started with statistics and programming using GPT UiO\n\n\nSelected work projects\nRASK: Automated HTML reports with R and Quart,o about use of antibiotics nationwide in Norway\nDigikost: Automated HTML reports using RMarkdown. Data ingested from UiO Nettskjema in TSD\nMinMat: Wrote R code that parses UiO Nettskjema data in TSD. Data ingested via a mobile app through UiO nettskjema. Later rewrote code to python.\niTandem: Wrote R code that parses UiO Nettskjema data in TSD. Data ingested via a mobile app through UiO nettskjema. Later rewrote code to python.\nNORTRAS: Wrote an R Shiny app that vizualises data (graphs and tables) for the NORTRAS study\nMinDag: Wrote an R Shiny app that creates HTML reports based on data delivered from an app (connected to UiO Nettskjema)"
+    "text": "From current workplace (unless specified otherwise): IT department at University of Oslo"
   },
   {
     "objectID": "coding-personal.html",
@@ -96,5 +96,26 @@
     "title": "CV",
     "section": "",
     "text": "Download my CV in English here. And my CV in Norwegian here"
+  },
+  {
+    "objectID": "work.html#phd",
+    "href": "work.html#phd",
+    "title": "Work",
+    "section": "PhD",
+    "text": "PhD\nPhD thesis:  Elucidating depression heterogeneity using clinical, neuroimaging and genetic data\nArticle 1:  Data-driven clustering reveals a link between symptoms and functional brain connectivity in depression\nArticle 2:  Multimodal fusion of structural and functional brain imaging in depression using linked independent component analysis\nArticle 3:  Brain connectome mapping of complex human traits and their polygenic architecture using machine learning"
+  },
+  {
+    "objectID": "work.html#selected",
+    "href": "work.html#selected",
+    "title": "Work",
+    "section": "Selected",
+    "text": "Selected"
+  },
+  {
+    "objectID": "work.html#selected-co-author-papers",
+    "href": "work.html#selected-co-author-papers",
+    "title": "Work",
+    "section": "Selected co-author papers",
+    "text": "Selected co-author papers\nInflammation and cognition in severe mental illness: patterns of covariation and subgroups\nData-driven health deficit assessment improves a frailty index’s prediction of current cognitive status and future conversion to dementia: results from ADNI"
   }
 ]
