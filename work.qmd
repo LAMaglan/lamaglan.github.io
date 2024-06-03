@@ -3,7 +3,7 @@ title: "Work"
 format: html
 ---
 
-From current workplace: IT department at University of Oslo
+From current workplace (unless specified otherwise): IT department at University of Oslo
 
 # Courses held
 
@@ -29,3 +29,32 @@ From current workplace: IT department at University of Oslo
 [NORTRAS](https://www.sv.uio.no/psi/forskning/prosjekter/nortras/): Wrote an R Shiny app that vizualises data (graphs and tables) for the NORTRAS study
 
 [MinDag](https://www.med.uio.no/norment/forskning/deltakelse/app-og-aktigrafi/): Wrote an R Shiny app that creates HTML reports based on data delivered from an app (connected to UiO Nettskjema)
+
+# Scientific articles
+
+From my days as a PhD researcher or in my spare time
+
+## PhD
+
+PhD thesis:
+<br> 
+[Elucidating depression heterogeneity using clinical, neuroimaging and genetic data](https://www.duo.uio.no/handle/10852/71645)
+
+Article 1: 
+<br>
+[Data-driven clustering reveals a link between symptoms and functional brain connectivity in depression](https://www.sciencedirect.com/science/article/abs/pii/S2451902218301290)
+
+Article 2: 
+<br>
+[Multimodal fusion of structural and functional brain imaging in depression using linked independent component analysis](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.24802)
+
+Article 3: 
+<br>
+[Brain connectome mapping of complex human traits and their polygenic architecture using machine learning](https://www.sciencedirect.com/science/article/abs/pii/S0006322319317913)
+
+
+## Selected co-author papers
+
+[Inflammation and cognition in severe mental illness: patterns of covariation and subgroups](https://www.nature.com/articles/s41380-022-01924-w)
+
+[Data-driven health deficit assessment improves a frailty index’s prediction of current cognitive status and future conversion to dementia: results from ADNI](https://link.springer.com/article/10.1007/s11357-022-00669-2)
