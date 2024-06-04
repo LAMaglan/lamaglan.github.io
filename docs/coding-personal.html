@@ -161,6 +161,18 @@ Github Contributions
 </h3>
 <p><img src="https://ghchart.rshah.org/LAMaglan" alt="Github Contributions"></p>
 </div>
+<footer>
+Contributions graph generated using <a href="https://ghchart.rshah.org/">ghchart.rshah.org</a> <br> graph generated on: <span id="timestamp"></span>
+</footer>
+<script>
+  const now = new Date();
+  const timestamp = document.getElementById('timestamp');
+  const year = now.getFullYear();
+  const month = String(now.getMonth() + 1).padStart(2, '0');
+  const day = String(now.getDate()).padStart(2, '0');
+  timestamp.textContent = `${year}-${month}-${day}`;
+</script>
+<p><br></p>
 <section id="selected-hobby-repos" class="level2">
 <h2 class="anchored" data-anchor-id="selected-hobby-repos">Selected hobby repos</h2>
 <section id="pokefightsimulator" class="level3">
