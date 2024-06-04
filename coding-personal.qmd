@@ -1,7 +1,12 @@
 ---
-title: "Personal projects"
+title: "Personal coding projects"
 format: html
 ---
+
+<div>
+  <h3>Github Contributions</h3>
+  <img src="https://ghchart.rshah.org/LAMaglan" alt="Github Contributions" />
+</div>
 
 ## Selected hobby repos
 
