@@ -39,6 +39,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/videojs/video.min.js"></script>
+<link href="site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -126,6 +128,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#courses-held" id="toc-courses-held" class="nav-link active" data-scroll-target="#courses-held">Courses held</a></li>
   <li><a href="#selected-work-projects" id="toc-selected-work-projects" class="nav-link" data-scroll-target="#selected-work-projects">Selected work projects</a></li>
+  <li><a href="#talks-and-presentations" id="toc-talks-and-presentations" class="nav-link" data-scroll-target="#talks-and-presentations">Talks and presentations</a></li>
   <li><a href="#scientific-articles" id="toc-scientific-articles" class="nav-link" data-scroll-target="#scientific-articles">Scientific articles</a>
   <ul class="collapse">
   <li><a href="#phd" id="toc-phd" class="nav-link" data-scroll-target="#phd">PhD</a></li>
@@ -172,6 +175,13 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="https://www.oslo-universitetssykehus.no/itandem">iTandem</a>: Wrote R code that parses UiO Nettskjema data in TSD. Data ingested via a mobile app through UiO nettskjema. Later rewrote code to python.</p>
 <p><a href="https://www.sv.uio.no/psi/forskning/prosjekter/nortras/">NORTRAS</a>: Wrote an R Shiny app that vizualises data (graphs and tables) for the NORTRAS study</p>
 <p><a href="https://www.med.uio.no/norment/forskning/deltakelse/app-og-aktigrafi/">MinDag</a>: Wrote an R Shiny app that creates HTML reports based on data delivered from an app (connected to UiO Nettskjema)</p>
+</section>
+<section id="talks-and-presentations" class="level1">
+<h1>Talks and presentations</h1>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="files/ML_lynkurs_IT_konferanse_2021.mp4"></video></div>
+<p>Crash course (Norwegian) in how to use tidymodels for building machine learning models. <br> From <a href="https://www.uio.no/for-ansatte/enhetssider/arrangement/it-konferansen/2021/">IT conference at UiO 2021</a> <br></p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video2" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="files/NORTRAS_app_data_at_uio_2022.mp4"></video></div>
+<p>Presented NORTRAS shiny app (Norwegian) with dummy data (see projects section), at <a href="https://www.usit.uio.no/om/arrangementer/data/2022/">data@UiO 2022</a></p>
 </section>
 <section id="scientific-articles" class="level1">
 <h1>Scientific articles</h1>
@@ -603,6 +613,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>videojs(video_shortcode_videojs_video1);</script>
+<script>videojs(video_shortcode_videojs_video2);</script>
 
 
 
