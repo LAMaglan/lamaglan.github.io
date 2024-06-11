@@ -30,6 +30,18 @@ From current workplace (unless specified otherwise): IT department at University
 
 [MinDag](https://www.med.uio.no/norment/forskning/deltakelse/app-og-aktigrafi/): Wrote an R Shiny app that creates HTML reports based on data delivered from an app (connected to UiO Nettskjema)
 
+
+# Talks and presentations
+
+{{< video files/ML_lynkurs_IT_konferanse_2021.mp4 >}}
+Crash course (Norwegian) in how to use tidymodels for building machine learning models.
+<br>
+From [IT conference at UiO 2021](https://www.uio.no/for-ansatte/enhetssider/arrangement/it-konferansen/2021/)
+<br>
+
+{{< video files/NORTRAS_app_data_at_uio_2022.mp4 >}}
+Presented NORTRAS shiny app (Norwegian) with dummy data (see projects section), at [data@UiO 2022](https://www.usit.uio.no/om/arrangementer/data/2022/)
+
 # Scientific articles
 
 From my days as a PhD researcher or in my spare time
