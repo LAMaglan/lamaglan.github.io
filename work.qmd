@@ -16,7 +16,7 @@ From current workplace (unless specified otherwise): IT department at University
 [Getting started with statistics and programming using GPT UiO](https://www.uio.no/tjenester/it/kurs/alle/dht/gpt-stats-programmering/events/2024-05-gpt-statistics.html)
 
 
-# Selected work projects
+# Selected work projects {#sec-work-proj}
 
 [RASK](https://www.antibiotika.no/rask/): Automated HTML reports with R and Quart,o about use of antibiotics nationwide in Norway
 
@@ -43,6 +43,13 @@ From [IT conference at UiO 2021](https://www.uio.no/for-ansatte/enhetssider/arra
 Presented NORTRAS shiny app (Norwegian) with dummy data (see projects section), at [data@UiO 2022](https://www.usit.uio.no/om/arrangementer/data/2022/)
 
 
+[Talk](files/DMN_R_in_TSD.pdf) at [UiO Data Manager Network](https://www.ub.uio.no/english/libraries/dsc/data-managers-network/) october 2022 about how R is used in production in TSD.
+<br>
+Mentions some of the projects in [Selected work projects](#sec-work-proj)
+
+[Talk](files/UiO_ConcePTION_Workshop_march_2023.pdf) discussing an outsider (UiO IT) perspective of the [ConcePTION](https://www.imi-conception.eu/) project.
+<br>
+<br>
 {{< video files/R_live_educloud_ondemand.mp4 width="600" height="350" title="R educloud live" >}}
 Live coding in R (short notice backup), showcasing [Educloud On Demand](https://www.uio.no/tjenester/it/forskning/beregning/open-on-demand/) (run software on HPC interactively) at [data@UiO 2024](https://www.usit.uio.no/om/arrangementer/data/2024/)
 
