@@ -88,7 +88,7 @@
     "href": "coding-personal.html#selected-hobby-repos",
     "title": "Personal coding projects",
     "section": "Selected hobby repos",
-    "text": "Selected hobby repos\n\nPokeFightSimulator\nA (simple) fight simulator between any two Pokemon using FastAPI (python) with Jinja template engine. See here\n\n\nCristin: JSON to JSON-LD\nPython code that parses through projects and publications from Cristin API (v2) and transform to JSON-LD. Initially for work (integrate with knowledge graph) but never got used. See here\n\n\nUiONettskjemaViz\nR-package to visualize UiO-nettskjema data (loaded as csv-files), or other csv-files of similar format. Initially for work, but never got used. See here"
+    "text": "Selected hobby repos\n\nPokeFightSimulator\nA (simple) fight simulator between any two Pokemon using FastAPI (python) with Jinja template engine. See here\n\n\nFinalFantasyFast\nA (simple) web application that shows details of characters and monsters across Final Fantasy games, using FastAPI in the backend, and React.js in the frontend. See here\n\n\nCristin: JSON to JSON-LD\nPython code that parses through projects and publications from Cristin API (v2) and transform to JSON-LD. Initially for work (integrate with knowledge graph) but never got used. See here\n\n\nUiONettskjemaViz\nR-package to visualize UiO-nettskjema data (loaded as csv-files), or other csv-files of similar format. Initially for work, but never got used. See here"
   },
   {
     "objectID": "cv.html",
