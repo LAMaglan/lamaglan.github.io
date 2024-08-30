@@ -33,15 +33,27 @@ University of Oslo | Oslo, Norway
 <br>
 B.Sc in Psychology | August 2008 - June 2011
 
-# Programming
+# Software skills
 
-Advanced | R
+**Advanced**
+<br>
+R
 
-Intermediate | Python, Git(hub), Linux
+**Intermediate**
+<br>
+Python, Git(hub), Linux
 
-Good grasp | SQL, docker
+**Good grasp**
+<br>
+databases (sqlite, postgres), 
+<br>
+containers (podman, docker, docker-compose)
 
-Beginner | Github Action, container orchestration
+**Beginner**
+<br> 
+Github Actions, container orchestration (kubernetes, openshift), 
+<br>
+NGINX/apache HTTP server, React.js
 
 # Languages
 
