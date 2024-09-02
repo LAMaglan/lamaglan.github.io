@@ -24,6 +24,10 @@ about:
 ---
 
 ![](images/luigi-1558026_1280.jpg){width=80%}
+<br>
+<span style="font-size: 0.8em; color: gray;">
+  Photo by Pixabay from Pexels: <a href="https://www.pexels.com/photo/shallow-focus-photography-of-luigi-plastic-figure-209679/">https://www.pexels.com/photo/shallow-focus-photography-of-luigi-plastic-figure-209679/</a>
+</span>
 
 See [About](about.html) for more details 
 
