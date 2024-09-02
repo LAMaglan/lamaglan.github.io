@@ -48,6 +48,8 @@ Python, Git(hub), Linux
 databases (sqlite, postgres), 
 <br>
 containers (podman, docker, docker-compose)
+<br>
+FastAPI
 
 **Beginner**
 <br> 
