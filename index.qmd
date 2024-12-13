@@ -3,15 +3,12 @@ title: "Luigi Maglanoc"
 about:
   template: trestles
   links:
-    - icon: twitter-x
-      text: twitter
-      href: https://twitter.com/LAMaglanoc
+    - icon: bluetooth
+      text: Bluesky
+      href: https://bsky.app/profile/lamaglan.bsky.social
     - icon: github
       text: Github
       href: https://github.com/lamaglan
-    - icon: mastodon
-      text: Mastodon
-      href: https://ieji.de/@LAMaglan
     - icon: google
       text: Google scholar
       href: https://scholar.google.com/citations?user=HbGdNnAAAAAJ&hl=en
@@ -19,7 +16,7 @@ about:
       text: Linkedin
       href: https://no.linkedin.com/in/luigi-angelo-maglanoc-3200724b
     - icon: pc-display
-      text: Work
+      text: Workplace profile
       href: https://www.usit.uio.no/english/about/organisation/rde/dm/staff/luigiam/index.html
 ---
 
