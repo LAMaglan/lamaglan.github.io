@@ -17,6 +17,8 @@ From current workplace (unless specified otherwise): IT department at University
 
 [Workshop: Getting up-to-speed with Python](https://www.uio.no/dscience/english/news-and-events/events/workshop-getting-up-to-speed-with-python-.html)
 
+[Deep learning in R: Image classification with Torch](https://www.ub.uio.no/english/courses-events/events/dsc/2025/digital-scholarship-days/06-deep-learning-in-r)
+
 # Selected work projects {#sec-work-proj}
 
 [RASK](https://www.antibiotika.no/rask/): Automated HTML reports with R and Quart,o about use of antibiotics nationwide in Norway
