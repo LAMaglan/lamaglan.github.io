@@ -21,7 +21,7 @@ From current workplace (unless specified otherwise): IT department at University
 
 # Selected work projects {#sec-work-proj}
 
-[RASK](https://www.antibiotika.no/rask/): Automated HTML reports with R and Quart,o about use of antibiotics nationwide in Norway
+[RASK](https://www.antibiotika.no/asp/riktigere-antibiotikabruk/rask/): Automated HTML reports with R and Quarto. Plots and tables summarizing the use of antibiotics Norway, aggregated by state and years.
 
 [Digikost](https://www.med.uio.no/imb/forskning/om/infrastruktur/kostholdsmetodikk/digikost.html): Automated HTML reports using RMarkdown. Data ingested from UiO Nettskjema in TSD
 
