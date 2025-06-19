@@ -53,9 +53,11 @@ FastAPI
 
 **Beginner**
 <br> 
-Github Actions, container orchestration (kubernetes, openshift), 
+Github Actions, NGINX/apache HTTP server,
 <br>
-NGINX/apache HTTP server, React.js
+container orchestration (kubernetes, openshift), 
+<br>
+Ansible (IaC), React.js
 
 # Languages
 
