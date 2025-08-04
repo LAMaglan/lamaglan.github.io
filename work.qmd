@@ -21,6 +21,8 @@ From current workplace (unless specified otherwise): IT department at University
 
 # Selected work projects {#sec-work-proj}
 
+[POICE Platform](https://www.uio.no/dscience/english/data-resources/projects/poice/): Main contributor to the POICE image processing platform (python) in collaboration with [dScience](https://www.uio.no/dscience/english/data-resources/)
+
 [RASK](https://www.antibiotika.no/asp/riktigere-antibiotikabruk/rask/): Automated HTML reports with R and Quarto. Plots and tables summarizing the use of antibiotics Norway, aggregated by state and years.
 
 [Digikost](https://www.med.uio.no/imb/forskning/om/infrastruktur/kostholdsmetodikk/digikost.html): Automated HTML reports using RMarkdown. Data ingested from UiO Nettskjema in TSD
