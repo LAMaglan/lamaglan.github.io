@@ -55,7 +55,7 @@ FastAPI
 <br> 
 Github Actions, NGINX/apache HTTP server,
 <br>
-container orchestration (kubernetes, openshift), 
+container orchestration (openshift/OKD, helm), 
 <br>
 Ansible (IaC), React.js
 
