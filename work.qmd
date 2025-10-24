@@ -9,6 +9,8 @@ From current workplace (unless specified otherwise): IT department at University
 
 [Introduction to R and RStudio](https://www.uio.no/tjenester/it/kurs/alle/dht/r/events/2024-03-rstudio-intro.html)
 
+[Carpentry@UiO workshop: R programming - a crash course for beginners](https://www.ub.uio.no/english/courses-events/courses/carpentry/251020_r)
+
 [Introduction to Machine learning in R: Classification ](https://www.uio.no/tjenester/it/kurs/alle/dht/ml/events/2024-04-ml-r-intro.html)
 
 [Introduction to Machine learning in Python: Classification ](https://www.uio.no/tjenester/it/kurs/alle/dht/ml-python/events/2024-05-ml-python-intro.html)
