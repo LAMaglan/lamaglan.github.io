@@ -35,7 +35,7 @@ From current workplace (unless specified otherwise): IT department at University
 
 [NORTRAS](https://www.sv.uio.no/psi/forskning/prosjekter/nortras/): Wrote an R Shiny app that vizualises data (graphs and tables) for the NORTRAS study
 
-[MinDag](https://www.med.uio.no/norment/forskning/deltakelse/app-og-aktigrafi/): Wrote an R Shiny app that creates HTML reports based on data delivered from an app (connected to UiO Nettskjema)
+[MinDag](https://www.med.uio.no/om/aktuelt/blogg/2022/app-hjelpe-forsta-kompliserte-psykiskiske-lidelser.html): Wrote an R Shiny app that creates HTML reports based on data delivered from an app (connected to UiO Nettskjema)
 
 
 # Talks and presentations
