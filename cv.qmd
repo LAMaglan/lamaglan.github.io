@@ -3,4 +3,8 @@ title: "CV"
 format: html
 ---
 
-Download my CV in English [here](files/CV_english.pdf). And my CV in Norwegian [here](files/CV.pdf)
+Download my CV in English [here](files/CV_english.pdf). And my CV in Norwegian [here](files/CV.pdf) 
+
+(**NOTE**: Norwegian CV has outdated template)
+
+(English CV was generated using latex template [twentyoneseconds](https://www.overleaf.com/latex/templates/twentyoneseconds/xmvbqtfmnycf))
