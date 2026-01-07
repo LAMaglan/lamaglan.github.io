@@ -1,0 +1,141 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Twenty One Seconds Resume/CV
+% LaTeX Template
+% Version 1.2 (2024/06/26)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+%
+% License
+% Original author:
+% Carmine Spagnuolo (cspagnuolo@unisa.it) with major modifications by 
+% Alessandro Trinca Tornidor (alessandro at trinca dot tornidor dot com)
+%% Copyright 2022-now Alessandro Trinca Tornidor (alessandro at trinca dot tornidor dot com)
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License, either version 1.3
+% of this license or (at your option) any later version.
+% The latest version of this license is in
+%   http://www.latex-project.org/lppl.txt
+% and version 1.3 or later is part of all distributions of LaTeX
+% version 2005/12/01 or later.
+%
+% This work has the LPPL maintenance status `maintained'.
+% 
+% The Current Maintainer of this work is Alessandro Trinca Tornidor
+%
+% This work consists of the files template.tex and twentyonesecondcv.cls
+% and the derived file twentyonesecondcv.pdf
+%
+% see https://github.com/trincadev/cv-latex-twentyoneseconds/ for updates
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[letterpaper]{twentyonesecondcv} % a4paper for A4
+
+
+\cvjobtitle{Data "shepard"} % SJob title/career
+\cvname{Luigi Maglanoc} % Your name
+
+%% Mandatory informations used by \makeinfoprofile. To hide these fields leave the contents of the macro empty (e.g. '\cvsitepersonal{}' instead than '\cvsitepersonal{en.wikipedia.org}')
+%% See https://tex.stackexchange.com/a/692525/109031
+\cvbirthdate{}
+\cvnumberphone{}
+\cvaddressurl{www.google.com/maps/place/Roma+RM/@41.9099533,12.371191,11z/}
+\cvaddress{Norway, Oslo}        % Short address/location, use \newline if more than 1 line is required
+\cvsitepersonal{luigi-maglanoc.com}       % personal site
+\cvstackoverflow{}
+\cvlinkedin{luigi-angelo-maglanoc}
+\cvskypeurlbase{} % Skype 
+\cvskypeurl{}
+\cvgithub{LAMaglan}     
+\cvmail{luigi\textunderscore maglanoc@hotmail.com}
+
+\programming{{Github Actions/3},
+             {NGINX, apache HTTP server/3},
+             {container orchestration (OKD, helm)/3},
+             {Frontend (React.js)/3},
+             {databases (sqlite, postgres)/4}, 
+             {containers (podman, docker)/4}, 
+             {FastAPI/4},
+             {Python, Git(hub), Linux/5},
+             {R/6}}
+\languages{{German/3}, {Norwegian/6}, {English/6}}
+
+\begin{document}
+\sidesection{
+    \makeheaderprofile
+    % \makeheaderprofilenoimg
+    \makeinfoprofile
+
+    \makeprogrammingprofile
+
+    \makelanguageprofile
+    
+}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% for some reason it's impossible to have a new line here...
+\mainsection{
+    
+    \section{About me}
+
+    Luigi Maglanoc is a data “shepard” at the IT Department of University of Oslo. Background in psychology and clinical neuroimaging. Currently interested in anything to do with Python, especially RESTful APIs (FastAPI). Wanting to learn more devops, such as containers (docker/podman), container orchestration (kubernetes/openshift), and CI/CD (github actions). Trying to learn som simple frontend with React.js.
+    
+    \section{Work experience}
+    
+    \begin{twenty}
+      \twentyitem
+        {2020 - }
+        {Senior Engineer}
+        {University of Oslo}
+        {Building end-to-end data pipelines in R and python. Deploying applications (e.g. R shiny apps) on UiO IT infrastructure (servers, OKD). Advising and assisting UiO (affiliated) researchers on data management, processing and analyses, as well as use of statistical software (mainly R)}
+      \twentyitem
+        {2019}
+        {Senior Advisor}
+        {Norwegian Tax Administration}
+        {Created statistical reports in various projects. Wrote SQL code to extract data from inhouse data warehouses to be used in fraud detection. Started creating an unsupervised model (topic modelling) to extract themes that may better describe different categories of working industries.}
+      \twentyitem
+        {2015 - 2019}
+        {PhD (Research fellow), Clinical neuroscience}
+        {University of Oslo}
+        {My doctoral research mainly revolved around elucidating depression heterogeneity and identifying biomarkers using advanced brain imaging methods, clinical and genetic data, working with international researchers. In later projects, I used machine learning applications in big data, as well as a wide range of multivariate statistics. I have also been involved in writing and data analysis of several external projects. In addition, I taught introduction courses in research methods at bachelor and master level.}
+      \twentyitem
+        {2011 - 2015}
+        {Research assistant}
+        {Several institutions in Norway and England}
+        {}
+    \end{twenty}
+    
+    \section{Education}
+    
+    \begin{twenty}
+      \twentyitem
+        {2011 - 2013}
+        {MSc, Cognitive Neuroscience}
+        {University of Oslo}
+        {Master's thesis title: Brain networks in bipolar disorder II: A resting-state fMRI study}
+    \twentyitem
+        {2008 - 2011}
+        {BSc, Psychology}
+        {University of Oslo}
+        {Major in cognitive psychology, minor in pedagogical science}
+    \end{twenty}
+    
+    \section{Volunteer work}
+    
+    \begin{twentyshort}
+      \twentyitemshort
+        {2020}
+        {Activity leader for children and teenagers, AIESEC}
+      \twentyitemshort
+        {2010}
+        {Activity leader for teenagers, Save the Children}
+    \end{twentyshort}
+
+%% end main section
+}
+
+\end{document}
