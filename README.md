@@ -31,3 +31,7 @@ In the [github pages settings](https://github.com/LAMaglan/lamaglan.github.io/se
 - that `Branch` is set to `main` (can be edited as required, for testing purposes), and that it looks for files in `/docs`
 
 The website will now be available on `{github account}.github.io` . If you have (bought a) domain, add your domain name under `Custom domain`.
+
+## Referenced files only in docs/
+
+Some files referenced in quarto files were in `files/` and `images/`, are now **only** in `docs/` (as that is where github pages expects them to be by default). The latter have been removed to avoid duplication, and save space (some video files were large)
