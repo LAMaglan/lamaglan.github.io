@@ -24,6 +24,10 @@ This also creates the required files that can be pushed to the remote repo.
 
 *NOTE: ensure that these files are in the subdirectory `docs/`*
 
+# CV setup
+
+Files (latex) required to make the `docs/files/CV_english.pdf` are in `twentyoneseconds-templates/`. Currently, they are compiled using the overleaf service
+
 # github pages setup
 
 In the [github pages settings](https://github.com/LAMaglan/lamaglan.github.io/settings/pages), under "Build and deployment", ensure that:
