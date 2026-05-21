@@ -299,6 +299,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#courses-and-workshops-held" id="toc-courses-and-workshops-held" class="nav-link active" data-scroll-target="#courses-and-workshops-held">Courses and workshops held</a></li>
   <li><a href="#sec-work-proj" id="toc-sec-work-proj" class="nav-link" data-scroll-target="#sec-work-proj">Selected work projects</a></li>
+  <li><a href="#uio-it-hackaweek-2026" id="toc-uio-it-hackaweek-2026" class="nav-link" data-scroll-target="#uio-it-hackaweek-2026">UiO-IT Hackaweek 2026</a></li>
   <li><a href="#talks-and-presentations" id="toc-talks-and-presentations" class="nav-link" data-scroll-target="#talks-and-presentations">Talks and presentations</a></li>
   <li><a href="#scientific-articles" id="toc-scientific-articles" class="nav-link" data-scroll-target="#scientific-articles">Scientific articles</a>
   <ul class="collapse">
@@ -351,6 +352,18 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="https://www.oslo-universitetssykehus.no/itandem">iTandem</a>: Wrote R code that parses UiO Nettskjema data in TSD. Data ingested via a mobile app through UiO nettskjema. Later rewrote code to python.</p>
 <p><a href="https://www.sv.uio.no/psi/forskning/prosjekter/nortras/">NORTRAS</a>: Wrote an R Shiny app that vizualises data (graphs and tables) for the NORTRAS study</p>
 <p><a href="https://www.med.uio.no/om/aktuelt/blogg/2022/app-hjelpe-forsta-kompliserte-psykiskiske-lidelser.html">MinDag</a>: Wrote an R Shiny app that creates HTML reports based on data delivered from an app (connected to UiO Nettskjema)</p>
+</section>
+<section id="uio-it-hackaweek-2026" class="level1">
+<h1>UiO-IT Hackaweek 2026</h1>
+<p>Participated in the <a href="https://www.usit.uio.no/om/aktuelt/2026/hackaweek.html">UiO-IT internal hackaweek 2026</a> (March). The topic of the hackaweek was AI: UiO-IT let gave us API access to (new) models <a href="https://gpt.uio.no/">GPT.uio.no</a>, with a lot more resources than normal. Some of these were local models hosted at <a href="https://www.hpc.ntnu.no/idun/documentation/ai-coding-assistant-and-large-language-models-llms-on-idun/">NTNU</a> (i.e.&nbsp;Kimi and GLM), although we could also make use of fully external services such as Sonnet models via Claude Code. The “section” I am in (data management) decided to collectively work on improving the <a href="https://www.unimus.no/portal/">Unimusportal</a>, which is a webservice that lets you search information and photographs across the five university museums in Norway. Specifically, we configured coding agents (e.g.&nbsp;Opencode) to use the models to improve specific features of the Unimusportal. What made this endeavour an interesting “exercise”, is that the codebase is written in flutter and dart, something only the maintainer is proficient in <br> <br> In the end, I ended up deploying two new features:</p>
+<ul>
+<li>navigating photos belonging to the same “object” with a “carousel”</li>
+<li>option of generating a PDF of an object/finding with requisite (meta)data</li>
+</ul>
+<p><img src="images/unimus_photo_view_orig.png" class="img-fluid" style="width:80.0%"> <br> <em>Original view: see see <a href="https://unimus.no/portal/#/photos/adea6b79-b234-4a29-bab5-8cfb2bf7e302?thing=43b05f2c-d066-4eec-ad68-0a6be9152fe0">link</a></em></p>
+<p><img src="images/unimus_photo_view_new.png" class="img-fluid" style="width:80.0%"> <br> <em>View after implementing photo “carousel”: see <a href="https://unimus.no/portal-utv/#/photos/adea6b79-b234-4a29-bab5-8cfb2bf7e302?thing=43b05f2c-d066-4eec-ad68-0a6be9152fe0">link</a></em></p>
+<p><img src="images/unimus_pdf_button.png" class="img-fluid" style="width:80.0%"> <br> <em>Example of (new) PDF button: compare <a href="https://unimus.no/portal/#/things/4db27529-03e6-4ce0-84e1-d7efdc05697f">before</a> and <a href="https://unimus.no/portal-utv/#/things/4db27529-03e6-4ce0-84e1-d7efdc05697f">after</a></em></p>
+<p><img src="images/unimus_pdf.png" class="img-fluid" style="width:60.0%"> <br> <em>Example of generated PDF file (can test in the <a href="https://unimus.no/portal-utv/#/things/4db27529-03e6-4ce0-84e1-d7efdc05697f">after</a> link above)</em></p>
 </section>
 <section id="talks-and-presentations" class="level1">
 <h1>Talks and presentations</h1>
